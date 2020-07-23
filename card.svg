@@ -6,7 +6,7 @@
 				position: absolute;
 				visibility: hidden;
 				}
-				.card {
+				.customcard {
 				
 				position: absolute;
 				top: 50%;
@@ -27,12 +27,12 @@
 				transform-style: preserve-3d;
 				}
 				
-				.flip-card:checked ~ .card .main {
+				.flip-customcard:checked ~ .customcard .main {
 				transform: rotateY( 180deg ) ;
 				transition: transform 0.5s;
 				}
 				
-				.card:hover .main {
+				.customcard:hover .main {
 				transform: rotateY( 180deg ) ;
 				transition: transform 0.5s;
 				}
@@ -87,8 +87,8 @@
 				}
 			</style>
 			<div align="center">
-				<input id="flip" class="flip-card" type="checkbox" />
-				<div class="card">
+				<input id="flip" class="flip-customcard" type="checkbox" />
+				<div class="customcard">
 					<div class="main">
 						<div class="front">
 							<svg fill="none" xmlns="http://www.w3.org/2000/svg" width="550" height="277" preserveAspectRatio="xMidYMid" viewBox="0 0 550 277">
