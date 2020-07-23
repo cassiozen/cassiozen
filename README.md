@@ -1,1 +1,1 @@
-![Hi, I'm CassioZen](card.svg)
+![Hi, I'm CassioZen](https://raw.githubusercontent.com/cassiozen/cassiozen/master/card.svg)
