@@ -7,6 +7,7 @@
 				visibility: hidden;
 				}
 				.card {
+				
 				position: absolute;
 				top: 50%;
 				left: 50%;
@@ -34,6 +35,7 @@
 				.front,
 				.back {
 				position: absolute;
+				box-sizing: border-box;
 				height: 100%;
 				width: 100%;
 				background: white;
@@ -43,7 +45,9 @@
 				border-radius: 5px;
 				backface-visibility: hidden;
 				}
-				
+				.front {
+				z-index: 2;
+				}
 				.back {
 				background: #ddd;
 				transform: rotateY( 180deg );
