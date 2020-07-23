@@ -109,7 +109,7 @@
 								</g>
 							</svg>
 							<div class="content">
-								<img src="https://raw.githubusercontent.com/cassiozen/cassiozen/master/profile.jpg" class="profilepic" />
+								<img src="./profile.jpg" class="profilepic" />
 								Hi, I'm CassioZen
 								<br />
 								<label for="flip" class="label">
