@@ -13,7 +13,6 @@ I published a couple books (Learning Ruby on Rails, Pro React), I write ocasiona
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-
 - [Custom State Machine Hook with useReducer & useEffect](https://www.youtube.com/watch?v=jF1tO2hTdC0)
 - [Getting your act together with State Machines](https://www.youtube.com/watch?v=N0OaRdJuVlc)
 - [Hook traps: UseEffect and Stale Closures](https://www.youtube.com/watch?v=eVRDqtTCd74)
