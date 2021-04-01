@@ -1,6 +1,6 @@
 # Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Cassio Zen!
 
-I'm a Software Engineer and educator. Currently Senior Software Engineer at Microsoft, most recently I was in developer relations at Google.
+I'm a developer and educator. Currently Senior Software Engineer at Microsoft, most recently I was in developer relations at Google.
 
 I published a couple books (Learning Ruby on Rails, Pro React), I write ocasionally about teaching and publish bi-weekly-ish videos on my Youtube Channel.
 
