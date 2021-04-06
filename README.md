@@ -11,6 +11,7 @@ I published a couple books (Learning Ruby on Rails, Pro React), I write ocasiona
 ---
 
 ### 📺 Latest YouTube Videos
+![img](https://img.shields.io/youtube/channel/views/UCZkjWyyLvzWeoVWEpRemrDQ?label=ReactCasts%20views&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Custom State Machine Hook with useReducer & useEffect](https://www.youtube.com/watch?v=jF1tO2hTdC0)
