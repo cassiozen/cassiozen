@@ -14,11 +14,11 @@ I published a couple books (Learning Ruby on Rails, Pro React), I write ocasiona
 ![img](https://img.shields.io/youtube/channel/views/UCZkjWyyLvzWeoVWEpRemrDQ?label=ReactCasts%20views&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [React useStateMachine hook](https://www.youtube.com/watch?v=uT-f6UJBqFE)
 - [What does it take to be a Senior Developer](https://www.youtube.com/watch?v=oKr1FqAUm68)
 - [Custom State Machine Hook with useReducer & useEffect](https://www.youtube.com/watch?v=jF1tO2hTdC0)
 - [Getting your act together with State Machines](https://www.youtube.com/watch?v=N0OaRdJuVlc)
 - [Hook traps: UseEffect and Stale Closures](https://www.youtube.com/watch?v=eVRDqtTCd74)
-- [An alternative to ejecting in Create React App](https://www.youtube.com/watch?v=2RvntJWs1Pw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ➡️ [more videos...](https://youtube.com/reactcasts)
