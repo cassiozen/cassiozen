@@ -28,9 +28,9 @@ I published a couple books (Learning Ruby on Rails, Pro React), I write ocasiona
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [10 tips for creating screencasts & developer videos](https://world.hey.com/cassio/10-tips-for-creating-screencasts-developer-videos-37519290)
+- [10 tips for creating screencasts &amp; developer videos](https://world.hey.com/cassio/10-tips-for-creating-screencasts-developer-videos-37519290)
 - [Why I use TypeScript](https://world.hey.com/cassio/why-i-use-typescript-0dc41c42)
-- [Principles shouldn't always come first.](https://world.hey.com/cassio/principles-shouldn-t-always-come-first-105fe31a)
+- [Principles shouldn&#39;t always come first.](https://world.hey.com/cassio/principles-shouldn-t-always-come-first-105fe31a)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://world.hey.com/cassio)
