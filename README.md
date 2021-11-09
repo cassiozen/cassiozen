@@ -17,7 +17,7 @@ I published a couple books (Learning Ruby on Rails, Pro React), I write ocasiona
 - [Talking About Mental Health](https://www.youtube.com/watch?v=BMBmqQs1jMo)
 - [React useStateMachine hook](https://www.youtube.com/watch?v=uT-f6UJBqFE)
 - [What does it take to be a Senior Developer](https://www.youtube.com/watch?v=oKr1FqAUm68)
-- [Custom State Machine Hook with useReducer & useEffect](https://www.youtube.com/watch?v=jF1tO2hTdC0)
+- [Custom State Machine Hook with useReducer &amp; useEffect](https://www.youtube.com/watch?v=jF1tO2hTdC0)
 - [Getting your act together with State Machines](https://www.youtube.com/watch?v=N0OaRdJuVlc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
