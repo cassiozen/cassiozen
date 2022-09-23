@@ -1,4 +1,5 @@
-![Hello World, I'm Cassio Zen](https://user-images.githubusercontent.com/33676/192060735-01bed262-5f97-4455-9920-35d022749940.gif)
+![Hello World, I'm Cassio Zen](https://user-images.githubusercontent.com/33676/192062050-f0bdb871-c499-4cb2-9cbb-579fb648443c.gif)
+
 
 ## Let's get in touch
 <p>
