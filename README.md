@@ -1,5 +1,5 @@
-![Hello World, I'm Cassio Zen](https://user-images.githubusercontent.com/33676/192062050-f0bdb871-c499-4cb2-9cbb-579fb648443c.gif)
 
+![whoAmI](https://user-images.githubusercontent.com/33676/192386667-01d50e9c-9bff-490f-8257-7d82509f2ca5.svg)
 
 ## Let's get in touch
 <p>
