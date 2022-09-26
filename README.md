@@ -1,5 +1,5 @@
+![whoAmI](https://user-images.githubusercontent.com/33676/192388482-2c940e44-7520-4a7a-83cc-b6107141103e.svg)
 
-![whoAmI](https://user-images.githubusercontent.com/33676/192386667-01d50e9c-9bff-490f-8257-7d82509f2ca5.svg)
 
 ## Let's get in touch
 <p>
